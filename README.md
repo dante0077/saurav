@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm saurav</h1>
-<h3 align="center">A backend developer from India</h3>
+<h3 align="center">A backend developer </h3>
 
 - 📫 How to reach me **saurav.7893@gmail.com**
 
